@@ -1,2 +1,2 @@
 # static-website
-teaching
+
